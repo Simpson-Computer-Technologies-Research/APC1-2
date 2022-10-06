@@ -1,4 +1,4 @@
-# Advanced Programming
+# Advanced Programming ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/Week1-AdvancedProgramming?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/Week1-AdvancedProgramming?label=Watchers)
 ![maxresdefault](https://user-images.githubusercontent.com/75189508/194362463-7f25767e-9d8d-4240-a5f1-1134ebd8e734.jpg)
 
 # About
