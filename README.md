@@ -1,5 +1,7 @@
 # Advanced Programming
+![Clio_2020-Blog_Image-Programming_for_Lawyers](https://user-images.githubusercontent.com/75189508/194362456-c8bb6b2d-704f-4c3d-b463-74ac05ceca9e.png)
 
+![maxresdefault](https://user-images.githubusercontent.com/75189508/194362463-7f25767e-9d8d-4240-a5f1-1134ebd8e734.jpg)
 
 # About
 - Learn how to write clean, optimized python code
