@@ -28,7 +28,7 @@
 
 <h3>Syntax Requirements</h3>
 
-- All of the above inclusions must use the Advanced syntax. Examples shoen below
+- All of the above inclusions must use the proper demonstrated syntax. Examples shown below..
 
 ```py
 
