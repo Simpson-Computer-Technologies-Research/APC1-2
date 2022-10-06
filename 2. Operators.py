@@ -1,7 +1,7 @@
 
-# //
-# // Operators
-# //
+# /////////////////
+# //  Operators  //
+# /////////////////
 
 
 # // Variable 1 is equal to Variable2

@@ -28,6 +28,9 @@ def main():
         return_passed_variable("a passed string 2")
     )
 
+    # // Optional Parameters
+    optional_params(1, string = "optional string")
+
 
 # ///////////////////////
 # //  Basic functions  //
@@ -50,6 +53,17 @@ def return_string_2() -> str:
 
 def return_passed_variable(string: str) -> str:
     return string
+
+
+# // The '_' stands for an empty parameter and
+# // the string parameter is optional
+# //
+# // The '_' variable is also seen in lesson 5: loops
+def optional_params(_, string = None):
+    if string is not None:
+        print(string)
+    else:
+        print("No string provided")
 
 
 # // If the current script you are running
