@@ -1,3 +1,9 @@
+# Advanced Programming
+
+
+# About
+- Learn how to write clean, optimized python code
+- Learn about the Python Programming Language
 
 
 # Week 1 and 2 Final Project
